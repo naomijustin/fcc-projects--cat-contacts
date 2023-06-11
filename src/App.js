@@ -24,10 +24,10 @@ function App() {
         email="cat3@test.com"
       />
       <Card 
-        img="./images/cat-3.jpg"
-        name="Potato"
-        phone="0412 333 333"
-        email="cat3@test.com"
+        img="./images/cat-4.jpg"
+        name="Keiko"
+        phone="0412 444 444"
+        email="cat4@test.com"
       />
     </div>
   )

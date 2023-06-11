@@ -8,22 +8,22 @@ import mailIcon from "./images/envelope-solid.svg"
 import "./App.css"
 
 
-function Card() {
+function Card(props) {
+    console.log(props);
   return (
     <div className="contacts">
       <div className="contact-card">
-        <img src={cat1} className="cat-image"></img>
-        <h3>Mr. Whiskerson</h3>
+        <img src={props.img} className="cat-image"></img>
+        <h3>{props.name}</h3>
         <div className="info-group">
           <img src={phoneIcon} className="icon-image"></img>
-          <p>0412 345 678</p>
+          <p>{props.phone}</p>
         </div>
         <div className="info-group">
           <img src={mailIcon} className="icon-image"></img>
-          <p>cat@test.com</p>
+          <p>{props.email}</p>
         </div>
       </div>
-
     </div>
   )
 }
