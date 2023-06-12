@@ -8,20 +8,19 @@ import mailIcon from "./images/envelope-solid.svg"
 import "./App.css"
 
 
-function Card(props) {
-    console.log(props);
+function Card({img, name, phone, email}) {    
   return (
     <div className="contacts">
       <div className="contact-card">
-        <img src={props.img} className="cat-image"></img>
-        <h3>{props.name}</h3>
+        <img src={require(`${img}`)} className="cat-image"></img>
+        <h3>{name}</h3>
         <div className="info-group">
           <img src={phoneIcon} className="icon-image"></img>
-          <p>{props.phone}</p>
+          <p>{phone}</p>
         </div>
         <div className="info-group">
           <img src={mailIcon} className="icon-image"></img>
-          <p>{props.email}</p>
+          <p>{email}</p>
         </div>
       </div>
     </div>
