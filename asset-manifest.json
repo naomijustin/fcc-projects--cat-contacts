@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-projects--cat-contacts/static/css/main.7b4dc418.css",
+    "main.js": "/fcc-projects--cat-contacts/static/js/main.b256ea59.js",
+    "static/js/787.2c37c923.chunk.js": "/fcc-projects--cat-contacts/static/js/787.2c37c923.chunk.js",
+    "static/media/cat-1.jpg": "/fcc-projects--cat-contacts/static/media/cat-1.37473e5a118380e64e4b.jpg",
+    "static/media/cat-2.jpg": "/fcc-projects--cat-contacts/static/media/cat-2.4da2aa49574f408350a6.jpg",
+    "static/media/cat-3.jpg": "/fcc-projects--cat-contacts/static/media/cat-3.9cee8d3e2b381ee707ce.jpg",
+    "static/media/cat-4.jpg": "/fcc-projects--cat-contacts/static/media/cat-4.9f29d5dada6fbd7c60ea.jpg",
+    "static/media/logo.svg": "/fcc-projects--cat-contacts/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/fcc-projects--cat-contacts/index.html",
+    "static/media/phone-solid.svg": "/fcc-projects--cat-contacts/static/media/phone-solid.b4a074baa24a40414433c87293d74020.svg",
+    "static/media/envelope-solid.svg": "/fcc-projects--cat-contacts/static/media/envelope-solid.6345f82ededa4dc800949734956dc764.svg",
+    "main.7b4dc418.css.map": "/fcc-projects--cat-contacts/static/css/main.7b4dc418.css.map",
+    "main.b256ea59.js.map": "/fcc-projects--cat-contacts/static/js/main.b256ea59.js.map",
+    "787.2c37c923.chunk.js.map": "/fcc-projects--cat-contacts/static/js/787.2c37c923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b4dc418.css",
+    "static/js/main.b256ea59.js"
+  ]
+}
